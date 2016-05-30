@@ -6,7 +6,7 @@ A Laravel package to manage calendar easily.
 
 Execute composer command.
 
-    composer update sukohi/ceasar:1.*
+    composer require sukohi/ceasar:1.*
 
 Register the service provider in app.php
 
