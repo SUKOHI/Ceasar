@@ -1,12 +1,13 @@
 {
     "name": "sukohi/ceasar",
-    "description": "Your package description here.",
+    "description": "A Laravel package to manage calendar easily.",
     "authors": [
         {
             "name": "Sukohi",
-            "email": "test@example.com"
+            "email": "capilano.sukohi@gmail.com"
         }
     ],
+    "license": "MIT",
     "require": {
         "laravel/framework": "~5.0"
     },
