@@ -1,0 +1,24 @@
+{
+    "name": "sukohi/ceasar",
+    "description": "A Laravel package to manage calendar easily.",
+    "authors": [
+        {
+            "name": "Sukohi",
+            "email": "capilano.sukohi@gmail.com"
+        }
+    ],
+    "license": "MIT",
+    "require": {
+        "php": ">=5.4.0",
+        "illuminate/support": "4.2.*"
+    },
+    "autoload": {
+        "classmap": [
+            "src/migrations"
+        ],
+        "psr-0": {
+            "Sukohi\\Ceasar\\": "src/"
+        }
+    },
+    "minimum-stability": "stable"
+}
