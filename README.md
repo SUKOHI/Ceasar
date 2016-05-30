@@ -2,6 +2,8 @@
 A Laravel package to manage calendar easily.  
 (This is for Laravel 5+. [For Laravel 4.2](https://github.com/SUKOHI/Ceasar/tree/1.0))
 
+***[Demo](http://demo-laravel52.capilano-fw.com/ceasar)***  
+
 # Installation
 
 Execute composer command.
