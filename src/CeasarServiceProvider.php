@@ -27,9 +27,10 @@ class CeasarServiceProvider extends ServiceProvider {
      */
     public function register()
     {
-        $this->app['ceasar'] = $this->app->share(function($app)
-        {
+        $this->app->singleton('ceasar', function(){
+
             return new Ceasar;
+
         });
     }
 
